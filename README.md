@@ -15,6 +15,7 @@ wordpress
 ## Fix file permissions
 
 `docker-compose up`
+
 `bash fix_permissions_for_local_development.sh`
 
 https://www.leonpahole.com/2020/04/dockerizing_wordpress.html
