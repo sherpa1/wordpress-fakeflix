@@ -1,4 +1,3 @@
 db_data
-wordpress_data/*
-!wordpress_data/wp-content
-wordpress_data/wp-content/themes/twenty*
+wordpress_data
+!wordpress_data/wp-content/themes/fakeflix
